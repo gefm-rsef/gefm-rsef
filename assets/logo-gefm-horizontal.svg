@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 980 260" role="img" aria-labelledby="title desc">
+  <title id="title">Grupo Especializado de Física Médica de la RSEF</title>
+  <desc id="desc">Logo horizontal con un símbolo atómico azul, un corazón rojo y una señal electrocardiográfica.</desc>
+  <g transform="translate(15 -2) scale(.82)">
+    <g fill="none" stroke="#2F6794" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+      <ellipse cx="150" cy="132" rx="112" ry="45"/>
+      <ellipse cx="150" cy="132" rx="112" ry="45" transform="rotate(60 150 132)"/>
+      <ellipse cx="150" cy="132" rx="112" ry="45" transform="rotate(120 150 132)"/>
+    </g>
+    <g transform="translate(150 132) scale(.72) translate(-163 -164.5)">
+      <path d="M150 235C130 216 77 184 77 135C77 102 101 82 128 82C143 82 154 90 163 102C172 90 183 82 198 82C225 82 249 102 249 135C249 184 196 216 176 235L163 247Z" fill="#B54138" stroke="#FFFFFF" stroke-width="8" stroke-linejoin="round"/>
+      <path d="M93 158H126L139 124L156 190L174 141L186 158H233" fill="none" stroke="#FFFFFF" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+  </g>
+  <g fill="#243441" font-family="Arial, Helvetica, sans-serif">
+    <text x="285" y="93" font-size="48" font-weight="700">Grupo Especializado</text>
+    <text x="285" y="151" font-size="48" font-weight="700">de Física Médica</text>
+    <line x1="285" y1="180" x2="915" y2="180" stroke="#B54138" stroke-width="4"/>
+    <text x="285" y="230" font-size="48" font-weight="700" letter-spacing="12">RSEF</text>
+  </g>
+</svg>

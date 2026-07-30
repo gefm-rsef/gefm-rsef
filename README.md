@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, this project contains the web page repository of gefm-rseg 👋
 
 <!--
 **gefm-rsef/gefm-rsef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

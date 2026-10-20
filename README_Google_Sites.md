@@ -43,7 +43,7 @@ Usar fondos blancos o azul marino. No alternar muchos colores ni emplear más de
 3. Franja para proponer actividades.
 4. Presentación del grupo y cuatro objetivos.
 5. Seis áreas científicas.
-6. Actividad destacada y próxima actividad.
+6. Actividades destacadas y congresos de interés.
 7. Recursos.
 8. Talento joven.
 9. Junta de Gobierno.
@@ -54,7 +54,7 @@ Usar fondos blancos o azul marino. No alternar muchos colores ni emplear más de
 ## Elementos que deben sustituirse antes de publicar
 
 - Los textos «Perfil institucional» de la junta por la institución y, si se desea, el área de cada integrante.
-- La tarjeta «Próxima actividad» por la siguiente actividad real del grupo.
+- Añade una tarjeta de «Próxima actividad» únicamente cuando exista una fecha futura confirmada; las actividades ya celebradas deben figurar como recientes o pasar al archivo.
 - Los enlaces `#` de recursos por carpetas, páginas o vídeos reales.
 - El formulario visual por un Google Form incrustado.
 - El símbolo provisional por el logotipo oficial autorizado de la RSEF/GEFM.
